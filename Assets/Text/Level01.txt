@@ -1,0 +1,33 @@
+Horse-Senpai&Neigh, what a beautiful morning spring sun!
+Horse-Senpai&I can't wait to start off on my new adventures in school!
+Horse-Chan&Is that you Horse-Senpai?
+Horse-Chan&I can't let you see me like this!!!
+*1*Say Hello*Ignore*Horse-Chan&Hi Horse-Senpai!*Horse-Chan&Why did he ignore me?!
+Horse-Senpai&(Maybe I should do something other than just standing here...)
+*0*Lay a road apple*Trott*Horse-Chan&Uh, maybe I should leave.*Horse-Chan&Such grace!
+*1*Neigh*Thrash about*Horse-Chan&What a neigh!*Horse-Chan&Oh...
+*1*Discuss school schedule*Think about race cars*Horse-Chan&Oh, we have the same classes!*Horse-Chan&Hello?...
+Horse-Senpai&So, we have the same schedule?
+Horse-Chan&Yes we do...
+*1*Walk Horse-Chan to class*Stare vacantly*Horse-Chan&Yes, lets talk while we walk!*Horse-Chan&Um, lets go to class...
+Horse-Senpai&(Hopefully I don't have to answer any questions...)
+Horse-Chan&What is your favorite color?
+*0*Red*Green*Horse-Chan&Oh, mines green...*Horse-Chan&Mine too!
+Horse-Chan&How about some riddles?
+Horse-Senpai&Sure.
+Horse-Chan&What belongs to you but others use it more than you do?
+*1*Your Name*Your Nose*Horse-Chan&Correct!*Horse-Chan&Wrong!
+Horse-Chan&What is harder to catch the faster you run?
+*0*An Uber*Your Breath*Horse-Chan&Corr..Wrong!*Horse-Chan&Correct!
+Horse-Chan&The more you take, the more you leave behind. What am I?
+*0*Breadcrumbs*Footsteps*Horse-Chan&Wrong!*Horse-Chan&Nice!
+Horse-Senpai&(I just want this to be over...)
+Horse-Chan&Lets play another game. Fact or Fiction!
+Horse-Chan&Play-Doh was originally invented as a wallpaper cleaner.
+*1*Fact*Fiction*Horse-Chan&Yup, thats true!*Horse-Chan&Nope, it is true!
+Horse-Chan&The yo-yo was originally developed as a weapon in the Philippines.
+*0*Fact*Fiction*Horse-Chan&You're not very good at this.*Horse-Chan&Correct!
+Horse-Chan&The Twilight series of films are good.
+*0*Fact*Fiction*Horse-Chan&Ugh, they are bad. Please don't tell me...*Horse-Chan&Thats correct! They are terrible!
+Horse-Senpai&Okay, okay. How about we go out to dinner this weekend?
+Horse-Chan&Its a date!
